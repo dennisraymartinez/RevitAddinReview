@@ -9,6 +9,15 @@
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
+	<AddIn Type="Command">
+		<Text>Command FizzBuzz</Text>
+		<Description>Some description for RevitAddinReview</Description>
+		<Assembly>RevitAddinReview.dll</Assembly>
+		<FullClassName>RevitAddinReview.cmdSession01Challenge</FullClassName>
+		<ClientId>CBC154F0-FCEB-4EBC-9F10-2D91DFFF98BE</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
   <AddIn Type="Application">
     <Name>Application RevitAddinReview</Name>
     <Assembly>RevitAddinReview.dll</Assembly>
