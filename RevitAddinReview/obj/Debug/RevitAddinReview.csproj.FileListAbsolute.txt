@@ -1,0 +1,6 @@
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\bin\Debug\RevitAddinReview.dll
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\bin\Debug\RevitAddinReview.pdb
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\obj\Debug\RevitAddinReview.csproj.AssemblyReference.cache
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\obj\Debug\RevitAddinReview.csproj.CoreCompileInputs.cache
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\obj\Debug\RevitAddinReview.dll
+C:\Users\Dennis.MArtinez\OneDrive - Centerplate\Programming\RevitAddinReview\RevitAddinReview\obj\Debug\RevitAddinReview.pdb
