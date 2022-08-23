@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command RevitAddinReview</Text>
+    <Description>Some description for RevitAddinReview</Description>
+    <Assembly>RevitAddinReview.dll</Assembly>
+    <FullClassName>RevitAddinReview.Command</FullClassName>
+    <ClientId>74d97e6c-45f8-4763-a34d-6185ee80babf</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application RevitAddinReview</Name>
+    <Assembly>RevitAddinReview.dll</Assembly>
+    <FullClassName>RevitAddinReview.App</FullClassName>
+    <ClientId>6ff7fba5-823d-4fd4-b600-224a495fd061</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
